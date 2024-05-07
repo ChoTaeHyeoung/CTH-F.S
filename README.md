@@ -22,7 +22,7 @@
 
 <details >
 <summary >
- 🙋‍♀️ 게  임  소  개
+  게  임  소  개
 </summary>
  무슨 게임은 무슨무슨 게임이다.
 <br>
@@ -271,7 +271,7 @@
 <br>
 <br>
 
-<div align="center"> <h1> 🌌 무슨 게임</h1></div>
+<div align="center"> <h1>  무슨 게임</h1></div>
 
 <details >
 <summary >
