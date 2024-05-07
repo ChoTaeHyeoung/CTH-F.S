@@ -11,9 +11,9 @@
 ### 5.5. 배경 설정
 ### 5.6. 스킬 설정
 ## 6. 스토리보드
-<div align="center">
+<!-- <div align="center"> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Song+Myung&pause=1000&color=000000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B2%8C%EC%9E%84%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94+%EA%B3%A0%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Song+Myung&pause=1000&color=000000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B2%8C%EC%9E%84%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94+%EA%B3%A0%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg) -->
 </div>
 <div align="center"> <h1> 엘리우마</h1></div>
 
