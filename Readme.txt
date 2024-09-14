@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: HeroBiz
-Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
+Template Name: MyResume
+Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
